@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @RahulkumarRV
-- 👀 I’m interested in Softerware development and coding
-- 🌱 I’m currently learning competitive programming and doing computer science and enginnering
-- 💞️ I’m looking to collaborate on open source
+- 👋 Hi, I’m Rahul Kumar
+- a software developer
+- Twitter https://twitter.com/Rahulkaran_1
 - 📫 How to reach me rahulkumar665550@gmail.com
 
 <!---
